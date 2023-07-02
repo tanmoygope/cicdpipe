@@ -21,8 +21,7 @@ export class CicddemoStack extends cdk.Stack {
           'npx cdk synth',
         ],
       }),
-
-    })
+    });
 
   }
 }
